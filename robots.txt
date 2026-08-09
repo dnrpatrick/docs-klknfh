@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-u3xp2j.salamcuan.cfd/sitemap.xml
